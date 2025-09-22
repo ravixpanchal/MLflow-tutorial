@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/796280fb8e97477e8416223d34b1dfca/artifacts
+end_time: 1758533790450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 796280fb8e97477e8416223d34b1dfca
+run_name: hilarious-snake-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758533588021
+status: 3
+tags: []
+user_id: babaj

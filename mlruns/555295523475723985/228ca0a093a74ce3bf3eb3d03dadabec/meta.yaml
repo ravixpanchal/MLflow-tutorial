@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/555295523475723985/228ca0a093a74ce3bf3eb3d03dadabec/artifacts
+end_time: 1758534168273
+entry_point_name: ''
+experiment_id: '555295523475723985'
+lifecycle_stage: active
+run_id: 228ca0a093a74ce3bf3eb3d03dadabec
+run_name: caring-snail-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758534060419
+status: 3
+tags: []
+user_id: babaj

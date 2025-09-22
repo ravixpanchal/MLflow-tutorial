@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/843f71793fa64381a3a55c2c8ebb7333/artifacts
+end_time: 1758533564460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 843f71793fa64381a3a55c2c8ebb7333
+run_name: industrious-hawk-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758533552288
+status: 3
+tags: []
+user_id: babaj

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Study Materials/5th Sem/MLOps/Lab/Lab-3/MLflow-tutorial/mlruns/557221837817952338/09715eea46564735a0fa9099f662b694/artifacts
+end_time: 1758535555949
+entry_point_name: ''
+experiment_id: '557221837817952338'
+lifecycle_stage: active
+run_id: 09715eea46564735a0fa9099f662b694
+run_name: dapper-fly-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758534551056
+status: 3
+tags: []
+user_id: babaj

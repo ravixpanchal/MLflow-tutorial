@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Study Materials/5th Sem/MLOps/Lab/Lab-3/MLflow-tutorial/mlruns/557221837817952338/models/m-05d2c2a60bec4e339c7562d49e6252c7/artifacts
+creation_timestamp: 1758534551228
+experiment_id: '557221837817952338'
+last_updated_timestamp: 1758534557260
+model_id: m-05d2c2a60bec4e339c7562d49e6252c7
+model_type: null
+name: model
+source_run_id: 09715eea46564735a0fa9099f662b694
+status: 2
+status_message: null

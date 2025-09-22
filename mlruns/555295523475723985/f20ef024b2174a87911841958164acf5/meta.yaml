@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/555295523475723985/f20ef024b2174a87911841958164acf5/artifacts
+end_time: 1758534536926
+entry_point_name: ''
+experiment_id: '555295523475723985'
+lifecycle_stage: active
+run_id: f20ef024b2174a87911841958164acf5
+run_name: rumbling-bear-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758534186485
+status: 3
+tags: []
+user_id: babaj

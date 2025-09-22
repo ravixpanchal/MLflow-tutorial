@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ada6b13f566547f68f48f31b9296da0d/artifacts
+end_time: 1758533440687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ada6b13f566547f68f48f31b9296da0d
+run_name: invincible-snail-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758533430280
+status: 4
+tags: []
+user_id: babaj
